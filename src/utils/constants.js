@@ -5,3 +5,15 @@ export const USER_AVATAR =
   "https://occ-0-6247-2164.1.nflxso.net/dnm/api/v6/K6hjPJd6cR6FpVELC5Pd6ovHRSk/AAAABdpkabKqQAxyWzo6QW_ZnPz1IZLqlmNfK-t4L1VIeV1DY00JhLo_LMVFp936keDxj-V5UELAVJrU--iUUY2MaDxQSSO-0qw.png?r=e6e";
 
 //https://avatars.githubusercontent.com/u/38877463?s=400&u=f31f53c7b954e74b68a7e51ae44e335ba4455663&v=4
+
+export const API_OPTIONS = {
+  method: "GET",
+  headers: {
+    accept: "application/json",
+    Authorization:
+      "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMTgzMTJlZWNlMjU3ZDRlOTc1NTlmMDhhZDU0MDYzNyIsInN1YiI6IjY1OTQzYTFmZTAwNGE2NmVmMDE3MmMwYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Go1um0N-nCZVqyPPjJ6p5ajROQxPibaOS6GGBZ3anTY",
+  },
+};
+
+//API Key 218312eece257d4e97559f08ad540637
+//jaishankarg
