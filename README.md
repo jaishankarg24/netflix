@@ -1,3 +1,8 @@
+# Hosting Domains and Live Demo URLs
+
+- https://netflixgpt-d22d3.web.app/
+- https://netflixgpt-d22d3.firebaseapp.com/
+
 # Netflix GPT
 
 - Create React App
