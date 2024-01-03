@@ -29,3 +29,5 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "spanish", name: "Española" },
   { identifier: "kannada", name: "ಕನ್ನಡ" },
 ];
+
+export const OPENAI_KEY = "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";

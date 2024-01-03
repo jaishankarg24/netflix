@@ -22,6 +22,7 @@ const Browse = () => {
       {showGptSearch ? (
         <GptSearch />
       ) : (
+        // Clear gptSlice on false
         <>
           <MainContainer />
           <SecondaryContainer />
